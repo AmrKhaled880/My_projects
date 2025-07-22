@@ -34,3 +34,7 @@ The following steps were performed during data cleaning:
 
 ## 📌 File Structure
 
+## ✍️ Author
+**Amr Khaled**  
+Computer Science Student | Aspiring Data Analyst  
+[LinkedIn](www.linkedin.com/in/amr-khaled-1a30b9364) | [GitHub](https://github.com/AmrKhaled880)
